@@ -1,8 +1,8 @@
 # Felipe Vieira
 
-❤ Stack: Javascript, React, React native e NodeJS.
+❤ Stack: TypeScript and React Native.
 
-> Desenvolvedor Front-End e iniciante UX/UI Designer, aberto para novas oportunidades.
+> Mobile Software Developer.
 
 <p align="left">
   <a href="https://linkedin.com/in/felipe-vieira-da-silva-7a9146188/">
